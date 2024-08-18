@@ -1,0 +1,18 @@
+{
+  "stlit_page_title": "Elderly Healthcare System 1.0",
+  "stlit_page_icon": ":health_worker:",
+  "stlit_doc_header": "AI Healthcare Monitoring System \uD83E\uDDD1\u200D⚕\uFE0F",
+  "stlit_doc_subheader": "Elderly Fall Detection and Prediction Data",
+  "stlit_doc_icon": ":sunglasses:",
+  "stlit_page_layout": "centered",
+  "stlit_initial_sidebar_state": "auto",
+  "stlit_menu_items": "None",
+  "stlit_Healtcare_image": "images\\Elderly Healthcare.png",
+  "stlit_Healtcare_image_width": 200,
+  "stlit_Security_image": "images\\Security.png",
+  "stlit_Security_image_width": 100,
+  "stlit_home_page_info": "Welcome to AI Healthcare Monitoring System",
+  "stlit_footer_page_info": "An AI Healthcare Solution Project. Proudly developed with :heart: using Streamlit. :sunglasses:"
+
+}
+
